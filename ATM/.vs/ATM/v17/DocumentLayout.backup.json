@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MG\\Desktop\\C\u002B\u002B Topics\\3 - C\u002B\u002B Projects\\ATM_Project\\ATM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4EEBF30-98AF-41BF-9EAA-C0E2CDFE145B}|ATM\\ATM.vcxproj|C:\\Users\\MG\\Desktop\\C\u002B\u002B Topics\\3 - C\u002B\u002B Projects\\ATM_Project\\ATM\\ATM\\ATM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4EEBF30-98AF-41BF-9EAA-C0E2CDFE145B}|ATM\\ATM.vcxproj|solutionrelative:ATM\\ATM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ATM.cpp",
+              "DocumentMoniker": "C:\\Users\\MG\\Desktop\\C\u002B\u002B Topics\\3 - C\u002B\u002B Projects\\ATM_Project\\ATM\\ATM\\ATM.cpp",
+              "RelativeDocumentMoniker": "ATM\\ATM.cpp",
+              "ToolTip": "C:\\Users\\MG\\Desktop\\C\u002B\u002B Topics\\3 - C\u002B\u002B Projects\\ATM_Project\\ATM\\ATM\\ATM.cpp",
+              "RelativeToolTip": "ATM\\ATM.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T22:04:31.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
